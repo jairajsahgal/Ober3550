@@ -37,6 +37,7 @@ https://github.com/Ober3550/BlockGame
 ### Pathfinder (P5.js)
 https://github.com/Ober3550/Pathfinder  
 ![](assets/pathfinder.gif)  
+![](assets/mazeSolve.gif)  
 
 ### Ninja Platformer (P5.js)
 https://github.com/Ober3550/NinjaGame  
