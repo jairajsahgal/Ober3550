@@ -31,8 +31,8 @@ https://leetcode.com/ober3550
 
 ## One day Builds
 ### Tetris (P5.js)
-https://github.com/Ober3550/BlockGame
-![](assets/block_game.gif)
+https://github.com/Ober3550/BlockGame  
+![](assets/block_game.gif)  
 
 ### Ninja Platformer (P5.js)
 ![](assets/Platformer.gif)
