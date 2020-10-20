@@ -34,6 +34,10 @@ https://leetcode.com/ober3550
 https://github.com/Ober3550/BlockGame  
 ![](assets/block_game.gif)  
 
+### Pathfinder (P5.js)
+https://github.com/Ober3550/Pathfinder  
+![](assets/pathfinder.gif)  
+
 ### Ninja Platformer (P5.js)
 https://github.com/Ober3550/NinjaGame  
 ![](assets/Platformer.gif)  
