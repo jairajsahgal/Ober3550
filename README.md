@@ -35,7 +35,8 @@ https://github.com/Ober3550/BlockGame
 ![](assets/block_game.gif)  
 
 ### Ninja Platformer (P5.js)
-![](assets/Platformer.gif)
+https://github.com/Ober3550/NinjaGame  
+![](assets/Platformer.gif)  
 
 ## Misc  
 ### Matlab  
