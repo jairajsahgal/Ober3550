@@ -1,5 +1,5 @@
 # Oliver Mainey's Computer Science Portfolio 
-(Updated 9th October 2020)  
+(Updated 21st October 2020)  
 
 ## Gravity (C++, SFML, ImGui, SIMD)  
 Gravitational simulation focused on both speed and visualization.  
