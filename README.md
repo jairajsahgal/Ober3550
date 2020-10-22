@@ -39,6 +39,12 @@ https://github.com/Ober3550/Pathfinder
 ![](assets/pathfinder.gif)  
 ![](assets/mazeSolve.gif)  
 
+### 2048 Game (P5.js)
+![](assets/2048Game.gif)
+
+### Off axis bouncing (P5.js)
+![](assets/bounce.gif)
+
 ### Ninja Platformer (P5.js)
 https://github.com/Ober3550/NinjaGame  
 ![](assets/Platformer.gif)  
@@ -48,7 +54,5 @@ https://github.com/Ober3550/NinjaGame
 ![](assets/Beetle.gif)  
 ### Matlab  
 ![](assets/BrainScan.gif)  
-### Python  
-![](assets/GeneralPolyBounce.gif)  
 ### C++ SDL2  
 ![](assets/PolygonDrawer.gif)  
