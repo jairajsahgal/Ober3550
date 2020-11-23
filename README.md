@@ -10,7 +10,7 @@ Gravitational simulation focused on both speed and visualization.
 ## Fluid Sim Project (C++, SFML, ImGui)  
 Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
 [Check out the Project Page](https://github.com/ober3550/FluidSim)  
-![](assets/FluidSim.gif)  
+![](assets/FluidSim2.gif)  
 
 ## RoboFactory Game (C++, SFML, ImGui)  
 Learning the importance of planning, long term project management and motivation toward a goal.  
