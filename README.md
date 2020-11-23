@@ -1,11 +1,22 @@
 # Oliver Mainey's Computer Science Portfolio 
 (Updated 23rd November 2020)  
 
+## Factorio Mods (Lua)
+Creating many multi-faceted modules that interact with a potentially infinite number of other modules is a challenge in dependency and future planning.  
+https://mods.factorio.com/user/ober3550  
+
+## Leetcode Algorithm Practice
+https://leetcode.com/ober3550  
+
 ## Gravity (C++, SFML, ImGui, SIMD)  
 Gravitational simulation focused on both speed and visualization.  
 [More Gifs on the Project Page!](https://github.com/ober3550/SolarSim)  
 <img src="assets/StableUniverse.gif" width="800"/>  
 <img src="assets/PlanetaryPaths.gif" width="800"/>  
+
+## Wave Equation (Matlab)  
+<img src="assets/show_case_animation.gif" width="800"/>  
+<img src="assets/WaveEquation3.gif" width="800"/>  
 
 ## Fluid Sim Project (C++, SFML, ImGui)  
 Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
@@ -22,17 +33,6 @@ Learning the importance of planning, long term project management and motivation
 <img src="assets/CircuitsDemo.gif" width="800"/>  
 <img src="assets/CircuitUpdateSmall.gif" width="800"/>  
 <img src="assets/CircuitUpdateBig.gif" width="800"/>  
-
-## Factorio Mods (Lua)
-Creating many multi-faceted modules that interact with a potentially infinite number of other modules is a challenge in dependency and future planning.  
-https://mods.factorio.com/user/ober3550  
-
-## Wave Equation (Matlab)  
-<img src="assets/show_case_animation.gif" width="800"/>  
-<img src="assets/WaveEquation3.gif" width="800"/>  
-
-## Leetcode Algorithm Practice
-https://leetcode.com/ober3550  
 
 ## One day Builds
 ### Tetris (P5.js)
