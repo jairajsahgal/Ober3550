@@ -4,7 +4,8 @@
 ## Gravity (C++, SFML, ImGui, SIMD)  
 Gravitational simulation focused on both speed and visualization.  
 [More Gifs on the Project Page!](https://github.com/ober3550/SolarSim)  
-![](assets/StableUniverse.gif=1000x1000)  
+<img src="assets/StableUniverse.gif" width="500" height="500"/>
+![](assets/StableUniverse.gif)  
 ![](assets/PlanetaryPaths.gif)   
 
 ## Fluid Sim Project (C++, SFML, ImGui)  
