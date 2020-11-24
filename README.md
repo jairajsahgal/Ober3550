@@ -1,6 +1,11 @@
 # Oliver Mainey's Computer Science Portfolio 
 (Updated 23rd November 2020)  
 
+## Introduction  
+My name is Oliver Mainey and I'm a recent Bachelor of Information Technology Graduate. I have a strong passion for high performance, mathematically based systems which is why I majored in Computer Science and Simulation Science at University. My Inspirations are Jonathan Blow, Andrei Alexandrescu and Mike Acton (aswell as many of the great speakers at CPP Con). These people consistently challenge the fundamental ideas of what it means to focus on performance improving the software industry to atleast try and utilize some of the sheer computation that modern hardware provides (and isn't always used well). I am always working on something, whether it be a small, medium, or large sized project. I focus on learning new technologies to increase my expertise, improving my work ethic and flexing my brain with problem solving whenever I can. 
+
+### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
+
 ## Factorio Mods (Lua)
 Creating many multi-faceted modules that interact with a potentially infinite number of other modules is a challenge in dependency and future planning.  
 https://mods.factorio.com/user/ober3550  
