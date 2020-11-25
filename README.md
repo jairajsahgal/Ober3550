@@ -6,6 +6,11 @@ My name is Oliver Mainey and I'm a recent Bachelor of Information Technology Gra
 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
+## C++ Project Template
+When I first started learning C++ it was just so difficult. Too many things to know, too many conflicting sources and lastly too many documents without a working demo.  
+So that's why I've made my own template that people are free to use. It's lightweight, has great libraries installed for you and a small amount of code for the stuff I struggled getting to work.
+https://github.com/ober3550/My-Template
+
 ## Factorio Mods (Lua)
 Creating many multi-faceted modules that interact with a potentially infinite number of other modules is a challenge in dependency and future planning.  
 https://mods.factorio.com/user/ober3550  
