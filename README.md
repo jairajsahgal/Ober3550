@@ -46,7 +46,7 @@ Learning the importance of planning, long term project management and motivation
 
 ## One day Builds
 ### Ninja Platformer (P5.js)  
-[##Play Here!](https://ober3550.github.io)  
+##[Play Here!](https://ober3550.github.io)  
 https://github.com/Ober3550/NinjaGame  
 <img src="assets/Platformer.gif" width="800"/>  
 
