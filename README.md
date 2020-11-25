@@ -45,21 +45,21 @@ Learning the importance of planning, long term project management and motivation
 <img src="assets/CircuitUpdateBig.gif" width="800"/>  
 
 ## One day Builds
-### Tetris (P5.js)
-https://github.com/Ober3550/BlockGame  
-<img src="assets/block_game.gif" width="800"/>  
+### Ninja Platformer (P5.js)
+https://github.com/Ober3550/NinjaGame  
+<img src="assets/Platformer.gif" width="800"/>  
 
 ### Pathfinder (P5.js)
 https://github.com/Ober3550/Pathfinder  
-<img src="assets/pathfinder.gif" width="800"/>  
 <img src="assets/mazeSolve.gif" width="800"/>  
-
-### 2048 Game (P5.js)
-<img src="assets/2048Game.gif" width="800"/>  
 
 ### Off axis bouncing (P5.js)
 <img src="assets/bounce.gif" width="800"/>  
 
-### Ninja Platformer (P5.js)
-https://github.com/Ober3550/NinjaGame  
-<img src="assets/Platformer.gif" width="800"/>  
+### Tetris (P5.js)
+https://github.com/Ober3550/BlockGame  
+<img src="assets/block_game.gif" width="800"/>  
+
+### 2048 Game (P5.js)
+<img src="assets/2048Game.gif" width="800"/>  
+
