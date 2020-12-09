@@ -28,15 +28,15 @@ Gravitational simulation focused on both speed and visualization.
 <img src="assets/show_case_animation.gif" width="800"/>  
 <img src="assets/WaveEquation3.gif" width="800"/>  
 
-## Fluid Sim Project (C++, SFML, ImGui)  
-Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
-[Check out the Project Page](https://github.com/ober3550/FluidSim)  
-<img src="assets/FluidSim2.gif" width="800"/>  
-
 ## Icosphere/Opengl Testing (C++, OpenGL)   
 I'm always striving to learn more about the technologies we rely upon to present data.   
 <img src="assets/icosphere.gif" width="800"/>   
 <img src="assets/earth.gif" width="800"/>   
+
+## Fluid Sim Project (C++, SFML, ImGui)  
+Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
+[Check out the Project Page](https://github.com/ober3550/FluidSim)  
+<img src="assets/FluidSim2.gif" width="800"/>  
 
 ## RoboFactory Game (C++, SFML, ImGui)  
 Learning the importance of planning, long term project management and motivation toward a goal.  
