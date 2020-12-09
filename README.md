@@ -37,12 +37,12 @@ Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash
 Learning the importance of planning, long term project management and motivation toward a goal.  
 [Check Out The Project for More!](https://github.com/ober3550/RobotComplex)  
 <img src="assets/FurnaceAutomation.gif" width="800"/>  
-<img src="assets/SteelSmeltingFixed.gif" width="800"/>  
+[//]: <> (<img src="assets/SteelSmeltingFixed.gif" width="800"/>  
 <img src="assets/Hotbar.gif" width="800"/>  
 <img src="assets/CraftingViewer.gif" width="800"/>  
 <img src="assets/CircuitsDemo.gif" width="800"/>  
 <img src="assets/CircuitUpdateSmall.gif" width="800"/>  
-<img src="assets/CircuitUpdateBig.gif" width="800"/>  
+<img src="assets/CircuitUpdateBig.gif" width="800"/>)  
 
 ## One day Builds
 ### Ninja Platformer (P5.js)  
