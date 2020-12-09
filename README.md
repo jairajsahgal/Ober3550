@@ -33,16 +33,15 @@ Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash
 [Check out the Project Page](https://github.com/ober3550/FluidSim)  
 <img src="assets/FluidSim2.gif" width="800"/>  
 
+## Icosphere/Opengl Testing (C++, OpenGL)   
+I'm always striving to learn more about the technologies we rely upon to present data.   
+<img src="assets/icosphere.gif" width="800"/>   
+<img src="assets/earth.gif" width="800"/>   
+
 ## RoboFactory Game (C++, SFML, ImGui)  
 Learning the importance of planning, long term project management and motivation toward a goal.  
 [Check Out The Project for More!](https://github.com/ober3550/RobotComplex)  
 <img src="assets/FurnaceAutomation.gif" width="800"/>  
-[//]: <> (<img src="assets/SteelSmeltingFixed.gif" width="800"/>  
-<img src="assets/Hotbar.gif" width="800"/>  
-<img src="assets/CraftingViewer.gif" width="800"/>  
-<img src="assets/CircuitsDemo.gif" width="800"/>  
-<img src="assets/CircuitUpdateSmall.gif" width="800"/>  
-<img src="assets/CircuitUpdateBig.gif" width="800"/>)  
 
 ## One day Builds
 ### Ninja Platformer (P5.js)  
